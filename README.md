@@ -33,3 +33,4 @@ GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 4.0
 * [git remote](./git-commands/remote.md "") - Просмотр и создание удаленного репозитория
 * [git restore](./git-commands/restore.md "") - Просмотр и создание удаленного репозитория
 * [git stash](./git-commands/stash.md "") - Откложить изменения на позже
+* [git diff](./git-commands/diff.md "") - Функция сравнения данных
