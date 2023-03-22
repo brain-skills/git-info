@@ -31,3 +31,4 @@ GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 4.0
 * [git merge](./git-commands/merge.md "") - Слияние веток в единую ветку
 * [git pull](./git-commands/pull.md "") - Получение и слияние изменений удалённого репоз-ия в локальный.
 * [git remote](./git-commands/remote.md "") - Просмотр и создание удаленного репозитория
+* [git restore](./git-commands/restore.md "") - Просмотр и создание удаленного репозитория
